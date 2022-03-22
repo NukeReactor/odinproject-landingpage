@@ -14,7 +14,8 @@ nav	{
 	display: flex;
 	justify-content: space-between;
 	align-items: center;
-	background-color: #1F2937;
+	background: rgb(31,41,55);
+	background: linear-gradient(90deg, rgba(31,41,55,1) 0%, rgba(15,24,36,1) 47%, rgba(36,50,70,1) 90%);
 }
 
 nav h1 {
@@ -33,7 +34,8 @@ nav ul {
 header {
 	display: flex;
 	justify-content: space-around;
-	background-color: #1F2937;
+	background: rgb(31,41,55);
+	background: linear-gradient(90deg, rgba(31,41,55,1) 0%, rgba(15,24,36,1) 47%, rgba(36,50,70,1) 90%);
 	padding: 90px;
 }
 
