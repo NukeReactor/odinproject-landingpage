@@ -31,6 +31,17 @@ nav ul {
 	list-style: none;
 }
 
+.list-content:hover {
+	transition-duration: 0.2s;
+	color: blue;
+	cursor: pointer;
+}
+
+.list-content:active {
+	transition-duration: 0.1s;
+	color: lightblue;
+}
+
 header {
 	display: flex;
 	justify-content: space-around;
